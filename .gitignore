@@ -1,0 +1,5 @@
+settings.ini
+addresses.txt
+/build
+/dist
+__pycache__/
